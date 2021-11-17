@@ -4,7 +4,7 @@ metadata:
   name: TestAPI
   description: Test API
   domain: Brand Building
-  api-product: Account Management
+  api_product: Account Management
 spec:
   type: openapi
   lifecycle: production
