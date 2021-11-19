@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: NoDomainApiProduct
   description: No Domain and API Product
+  domain: Connectivity
+  api_product: Integration Technologies
 spec:
   type: openapi
   lifecycle: production
