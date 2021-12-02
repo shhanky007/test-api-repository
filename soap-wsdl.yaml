@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: NoDomainApiProduct
+  description: No Domain and API Product
+  domain: Connectivity
+  api_product: Integration Technologies
+spec:
+  type: soap
+  lifecycle: production
+  owner: manufacturing
+  definition:  https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
