@@ -9,4 +9,5 @@ spec:
   type: soap
   lifecycle: production
   owner: manufacturing
-  definition:  https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
+  definition:  
+   $text: https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
