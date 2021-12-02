@@ -4,7 +4,7 @@ metadata:
   name: ConsumerBooking360API
   description: API to book a consumer into the consumer 360
   domain: Consumer 360
-  api_product: Book
+  api_product: Digital Commerce
 spec:
   type: openapi
   lifecycle: production
