@@ -10,4 +10,4 @@ spec:
   lifecycle: production
   owner: manufacturing
   definition:  
-   $text: https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
+   target: https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
